@@ -17,9 +17,15 @@
 
   Essa análise de dados foi escrita em **Python** no ambiente **Jupyter Notebook**, os arquivos apresentados foram lidos coma biblioteca Pandas para exemplificarmos em um gráfico de barras a evolução dos estudantes com deficiência física.
   
+  Segue abaixo uma imagem do gráfico construido.
+
+
+![download](https://user-images.githubusercontent.com/56437525/69829963-1c763e80-1201-11ea-8fa1-afd136797b3b.png)
+
+  
   
 ## Conclusão:
-  
+  Podemos verificar com essa análise que o número de deficientes físicos matriculados em faculdades em geral foi de quase 100% nesse intervalo de 5 anos.
   
 
 
