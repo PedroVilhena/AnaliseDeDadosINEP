@@ -1,5 +1,5 @@
 
-# Analise de Dados INEP - Deficientes Fisicos nas Faculdades
+# Analise de Dados INEP - Deficientes Físicos nas Faculdades
 ## Requisitos para a execução da análise e apresentação das informações:
 
 * Python versão 3.00+: Foram utilizadas as bibliotecas pandas e matplotlib.
